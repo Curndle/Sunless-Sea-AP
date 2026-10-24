@@ -1,0 +1,8 @@
+C:\Users\curnn\Documents\Sunless Sea Modding\07 - connector\SunlessSeaAP_Connector\obj\Debug\ArchipelagoBepin5Template.csproj.AssemblyReference.cache
+C:\Users\curnn\Documents\Sunless Sea Modding\07 - connector\SunlessSeaAP_Connector\obj\Debug\ArchipelagoBepin5Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curnn\Documents\Sunless Sea Modding\07 - connector\SunlessSeaAP_Connector\obj\Debug\ArchipelagoBepin5Template.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\SunlessSea\BepInEx\plugins\SunlessSeaAP\SunlessSeaAP.dll
+C:\Program Files (x86)\Steam\steamapps\common\SunlessSea\BepInEx\plugins\SunlessSeaAP\SunlessSeaAP.pdb
+C:\Users\curnn\Documents\Sunless Sea Modding\07 - connector\SunlessSeaAP_Connector\obj\Debug\Archipel.0569E01E.Up2Date
+C:\Users\curnn\Documents\Sunless Sea Modding\07 - connector\SunlessSeaAP_Connector\obj\Debug\SunlessSeaAP.dll
+C:\Users\curnn\Documents\Sunless Sea Modding\07 - connector\SunlessSeaAP_Connector\obj\Debug\SunlessSeaAP.pdb

@@ -1,0 +1,1 @@
+Place folder(s) in *\AppData\LocalLow\Failbetter Games\Sunless Sea\addon
