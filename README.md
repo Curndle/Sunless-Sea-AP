@@ -8,8 +8,10 @@ The project is split into three part
 2) Game Mod
 3) BepInEx Connector
 
-Of the three, the APworld is the only one complete, at least as far as a proof of concept release
+Of the three, the APworld is the only one complete, at least as far as a proof of concept release.
+
 The Game Mod isn't close to finished, but I understand how I would get it to a functional state at least.
+
 BepInEx Connector is just this template https://github.com/alwaysintreble/ArchipelagoBepInExPluginTemplate
 it's not remotely functional currently, it won't do anything in game, and you can't even type your login details.
 
